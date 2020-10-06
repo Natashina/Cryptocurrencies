@@ -4,18 +4,18 @@ Project description
 
 
 Use the Elbow Curve to Determine the Best K Value
-
+![Table1](Capture0.PNG)
 
 
 
 
 3D plot
 
-![Table1](Capture1.PNG)
+![Table2](Capture1.PNG)
 
 
 
 
 The table below shows 
 
-![Table2](Capture2.PNG)
+![Table3](Capture2.PNG)
