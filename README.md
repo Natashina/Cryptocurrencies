@@ -1,8 +1,7 @@
 # Cryptocurrencies
 
 
-Project purpose is to use unsupervised learning to analyze data on the cryptocurrencies traded on the market.
-The data was retrieved from CryptoCompare.
+### The purpose of this project is to use unsupervised learning to analyze data on the cryptocurrencies traded on the market. The data was retrieved from CryptoCompare.
 
 ### 1. Some data preprocessing tasks have been performed for next steps - dimensions reduction with PCA and clustering with K-means
 
