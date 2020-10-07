@@ -6,7 +6,7 @@ The data was retrieved from CryptoCompare.
 
 ### 1. Some data preprocessing tasks have been performed for next steps - dimensions reduction with PCA and clustering with K-means
 
-### 2. Data Dimensions were reduced Using PCA
+### 2. Using PCA data dimensions of the X DataFrame were reduced down to three principal components - PC1, PC2, PC3.
 
 ### 3. Elbow Curve have been used to determine the Best K Value
  
