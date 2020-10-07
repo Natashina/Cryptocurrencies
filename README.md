@@ -23,8 +23,10 @@ The table below shows
 
 
 Two outstandidng cryptocurrencies in the table 3 are shown below in 3D graph
-
+ - Draftcoin
+ 
 ![Chart4](Capture1.1.PNG)
 
+  - BitTorrent
 
 ![Chart5](Capture1.2.PNG)
