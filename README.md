@@ -29,4 +29,4 @@ Two outstandidng cryptocurrencies in the table 3 are shown below in 3D graph
 
   - BitTorrent
 
-![Chart5](Capture1.2.PNG)
+![Chart5](Capture1.2.png)
