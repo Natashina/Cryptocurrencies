@@ -1,7 +1,8 @@
 # Cryptocurrencies
 
-Project purpose is to use unsupervised learning to analyze data on the cryptocurrencies traded on the market.
 
+Project purpose is to use unsupervised learning to analyze data on the cryptocurrencies traded on the market.
+The data was retrieved from CryptoCompare.
 
 Use the Elbow Curve to Determine the Best K Value
 ![Chart1](Capture0.PNG)
