@@ -7,9 +7,11 @@ The data was retrieved from CryptoCompare.
 ### 1. Some data preprocessing tasks have been performed for next steps - dimensions reduction with PCA and clustering with K-means
 
 ### 2. Data Dimensions were reduced Using PCA
+
+### 3. Elbow Curve have been used to determine the Best K Value
  
 
-Use the Elbow Curve to Determine the Best K Value
+
 ![Chart1](Capture0.PNG)
 
 
