@@ -18,14 +18,14 @@
 
 3D plot
 
-![Chart2](Capture1.PNG)
+![Chart2](Capture 1.PNG)
 
 
 
 
 The table below shows 
 
-![Chart3](Capture2.PNG)
+![Chart3](Capture 2.PNG)
 
 
 
