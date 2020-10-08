@@ -23,13 +23,13 @@
 
 
 
-The Chart below shows 2D plot and visualizing distribution of clusters.
+The Chart3 below shows 2D plot and visualizing distribution of clusters.
 
 ![Chart3](Capture2.PNG)
 
 
 
-Two outstandidng cryptocurrencies in the table 3 are following:
+Two outstandidng cryptocurrencies in the Chart 3 are following:
  - Draftcoin
  - BitTorrent
 
