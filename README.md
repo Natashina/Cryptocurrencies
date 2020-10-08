@@ -16,24 +16,20 @@
 
 
 
-3D plot
+3D plot displays five clusters that we defined earlier.
 
 ![Chart2](Capture1.PNG)
 
 
 
 
-The table below shows 
+The Chart below shows 2D plot and visualizing distribution of clusters.
 
 ![Chart3](Capture2.PNG)
 
 
 
-Two outstandidng cryptocurrencies in the table 3 are shown below in 3D graph
+Two outstandidng cryptocurrencies in the table 3 are following:
  - Draftcoin
- 
-![Chart4](Capture1.1.PNG)
+ - BitTorrent
 
-  - BitTorrent
-
-![Chart5](Capture1.2.png)
